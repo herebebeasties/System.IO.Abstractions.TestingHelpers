@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.IO.Abstractions.TestingHelpers", "src\System.IO.Abstractions.TestingHelpers.csproj", "{AB1218E9-6E26-4E3F-B991-D374441C1CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.IO.Abstractions.TestingHelpers.Tests", "tests\System.IO.Abstractions.TestingHelpers.Tests.csproj", "{DFF7FE3C-70D2-4A14-81A5-2EF2A554830D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1218E9-6E26-4E3F-B991-D374441C1CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1218E9-6E26-4E3F-B991-D374441C1CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1218E9-6E26-4E3F-B991-D374441C1CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1218E9-6E26-4E3F-B991-D374441C1CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF7FE3C-70D2-4A14-81A5-2EF2A554830D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF7FE3C-70D2-4A14-81A5-2EF2A554830D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF7FE3C-70D2-4A14-81A5-2EF2A554830D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF7FE3C-70D2-4A14-81A5-2EF2A554830D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
